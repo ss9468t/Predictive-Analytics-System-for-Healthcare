@@ -89,5 +89,3 @@ The growing importance of predictive analytics in healthcare is driven by the ne
 Contributions are welcome!  
 If you have experience in **healthcare analytics, data cleaning, or machine learning**, feel free to open issues or submit pull requests.  
 
-## 📧 Contact
-For questions or collaboration, please reach out via GitHub Issues or [add your email/LinkedIn here].
